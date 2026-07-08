@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0137-single-number-ii](https://github.com/jilesh1/Programs/tree/master/0137-single-number-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jilesh1/Programs/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0697-degree-of-an-array](https://github.com/jilesh1/Programs/tree/master/0697-degree-of-an-array) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/jilesh1/Programs/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,5 +37,6 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Math
 |  |
 | ------- |
+| [1822-sign-of-the-product-of-an-array](https://github.com/jilesh1/Programs/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jilesh1/Programs/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
