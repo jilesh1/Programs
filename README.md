@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/jilesh1/Programs/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/jilesh1/Programs/tree/master/0191-number-of-1-bits) |
 ## String
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/jilesh1/Programs/tree/master/0031-next-permutation) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/jilesh1/Programs/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
