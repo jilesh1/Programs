@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jilesh1/Programs/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/jilesh1/Programs/tree/master/0496-next-greater-element-i) |
 | [0697-degree-of-an-array](https://github.com/jilesh1/Programs/tree/master/0697-degree-of-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/jilesh1/Programs/tree/master/1331-rank-transform-of-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jilesh1/Programs/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jilesh1/Programs/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/jilesh1/Programs/tree/master/0496-next-greater-element-i) |
 | [0697-degree-of-an-array](https://github.com/jilesh1/Programs/tree/master/0697-degree-of-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/jilesh1/Programs/tree/master/1331-rank-transform-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/jilesh1/Programs/tree/master/0191-number-of-1-bits) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/jilesh1/Programs/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
