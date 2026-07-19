@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/jilesh1/Programs/tree/master/0387-first-unique-character-in-a-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/jilesh1/Programs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/jilesh1/Programs/tree/master/1513-number-of-substrings-with-only-1s) |
 ## Queue
 |  |
@@ -54,10 +55,12 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/jilesh1/Programs/tree/master/0496-next-greater-element-i) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/jilesh1/Programs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/jilesh1/Programs/tree/master/0496-next-greater-element-i) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/jilesh1/Programs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jilesh1/Programs/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jilesh1/Programs/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/jilesh1/Programs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
