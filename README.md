@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1513-number-of-substrings-with-only-1s](https://github.com/jilesh1/Programs/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jilesh1/Programs/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jilesh1/Programs/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/jilesh1/Programs/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jilesh1/Programs/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/jilesh1/Programs/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jilesh1/Programs/tree/master/3658-gcd-of-odd-and-even-sums) |
