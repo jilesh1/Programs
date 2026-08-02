@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1513-number-of-substrings-with-only-1s](https://github.com/jilesh1/Programs/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jilesh1/Programs/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jilesh1/Programs/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/jilesh1/Programs/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/jilesh1/Programs/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/jilesh1/Programs/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jilesh1/Programs/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
