@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1822-sign-of-the-product-of-an-array](https://github.com/jilesh1/Programs/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jilesh1/Programs/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jilesh1/Programs/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3731-find-missing-elements](https://github.com/jilesh1/Programs/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0496-next-greater-element-i](https://github.com/jilesh1/Programs/tree/master/0496-next-greater-element-i) |
 | [0697-degree-of-an-array](https://github.com/jilesh1/Programs/tree/master/0697-degree-of-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/jilesh1/Programs/tree/master/1331-rank-transform-of-an-array) |
+| [3731-find-missing-elements](https://github.com/jilesh1/Programs/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1331-rank-transform-of-an-array](https://github.com/jilesh1/Programs/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jilesh1/Programs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/jilesh1/Programs/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/jilesh1/Programs/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
 | ------- |
