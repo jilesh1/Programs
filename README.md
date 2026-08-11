@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0704-binary-search](https://github.com/jilesh1/Programs/tree/master/0704-binary-search) |
 | [1331-rank-transform-of-an-array](https://github.com/jilesh1/Programs/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jilesh1/Programs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/jilesh1/Programs/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jilesh1/Programs/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jilesh1/Programs/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jilesh1/Programs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
