@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0540-single-element-in-a-sorted-array](https://github.com/jilesh1/Programs/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jilesh1/Programs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0697-degree-of-an-array](https://github.com/jilesh1/Programs/tree/master/0697-degree-of-an-array) |
+| [0704-binary-search](https://github.com/jilesh1/Programs/tree/master/0704-binary-search) |
 | [1331-rank-transform-of-an-array](https://github.com/jilesh1/Programs/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jilesh1/Programs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jilesh1/Programs/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -132,4 +133,5 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/jilesh1/Programs/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/jilesh1/Programs/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/jilesh1/Programs/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
