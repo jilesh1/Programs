@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0001-two-sum](https://github.com/jilesh1/Programs/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/jilesh1/Programs/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/jilesh1/Programs/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/jilesh1/Programs/tree/master/0041-first-missing-positive) |
 | [0137-single-number-ii](https://github.com/jilesh1/Programs/tree/master/0137-single-number-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jilesh1/Programs/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/jilesh1/Programs/tree/master/0035-search-insert-position) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jilesh1/Programs/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/jilesh1/Programs/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/jilesh1/Programs/tree/master/0704-binary-search) |
