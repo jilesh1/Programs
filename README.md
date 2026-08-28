@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jilesh1/Programs/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jilesh1/Programs/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jilesh1/Programs/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/jilesh1/Programs/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jilesh1/Programs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/jilesh1/Programs/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jilesh1/Programs/tree/master/3513-number-of-unique-xor-triplets-i) |
