@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jilesh1/Programs/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jilesh1/Programs/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jilesh1/Programs/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jilesh1/Programs/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/jilesh1/Programs/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jilesh1/Programs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/jilesh1/Programs/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1822-sign-of-the-product-of-an-array](https://github.com/jilesh1/Programs/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jilesh1/Programs/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/jilesh1/Programs/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jilesh1/Programs/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/jilesh1/Programs/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/jilesh1/Programs/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/jilesh1/Programs/tree/master/2894-divisible-and-non-divisible-sums-difference) |
