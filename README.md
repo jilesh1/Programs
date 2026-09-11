@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2798-number-of-employees-who-met-the-target](https://github.com/jilesh1/Programs/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jilesh1/Programs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/jilesh1/Programs/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3483-unique-3-digit-even-numbers](https://github.com/jilesh1/Programs/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jilesh1/Programs/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/jilesh1/Programs/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jilesh1/Programs/tree/master/3875-construct-uniform-parity-array-i) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2094-finding-3-digit-even-numbers](https://github.com/jilesh1/Programs/tree/master/2094-finding-3-digit-even-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jilesh1/Programs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/jilesh1/Programs/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3483-unique-3-digit-even-numbers](https://github.com/jilesh1/Programs/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/jilesh1/Programs/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [1291-sequential-digits](https://github.com/jilesh1/Programs/tree/master/1291-sequential-digits) |
 | [2094-finding-3-digit-even-numbers](https://github.com/jilesh1/Programs/tree/master/2094-finding-3-digit-even-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/jilesh1/Programs/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -156,4 +159,5 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/jilesh1/Programs/tree/master/2094-finding-3-digit-even-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/jilesh1/Programs/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
