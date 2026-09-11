@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jilesh1/Programs/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jilesh1/Programs/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jilesh1/Programs/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/jilesh1/Programs/tree/master/2094-finding-3-digit-even-numbers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jilesh1/Programs/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/jilesh1/Programs/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jilesh1/Programs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0496-next-greater-element-i](https://github.com/jilesh1/Programs/tree/master/0496-next-greater-element-i) |
 | [0697-degree-of-an-array](https://github.com/jilesh1/Programs/tree/master/0697-degree-of-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/jilesh1/Programs/tree/master/1331-rank-transform-of-an-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/jilesh1/Programs/tree/master/2094-finding-3-digit-even-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jilesh1/Programs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/jilesh1/Programs/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3731-find-missing-elements](https://github.com/jilesh1/Programs/tree/master/3731-find-missing-elements) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0628-maximum-product-of-three-numbers](https://github.com/jilesh1/Programs/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/jilesh1/Programs/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jilesh1/Programs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/jilesh1/Programs/tree/master/2094-finding-3-digit-even-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jilesh1/Programs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/jilesh1/Programs/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/jilesh1/Programs/tree/master/3731-find-missing-elements) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/jilesh1/Programs/tree/master/1291-sequential-digits) |
+| [2094-finding-3-digit-even-numbers](https://github.com/jilesh1/Programs/tree/master/2094-finding-3-digit-even-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -148,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0540-single-element-in-a-sorted-array](https://github.com/jilesh1/Programs/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/jilesh1/Programs/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/jilesh1/Programs/tree/master/0704-binary-search) |
+## Recursion
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/jilesh1/Programs/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
