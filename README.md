@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3731-find-missing-elements](https://github.com/jilesh1/Programs/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jilesh1/Programs/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/jilesh1/Programs/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/jilesh1/Programs/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/jilesh1/Programs/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jilesh1/Programs/tree/master/3483-unique-3-digit-even-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/jilesh1/Programs/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
