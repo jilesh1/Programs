@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jilesh1/Programs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/jilesh1/Programs/tree/master/1513-number-of-substrings-with-only-1s) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jilesh1/Programs/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/jilesh1/Programs/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
 |  |
 | ------- |
@@ -172,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/jilesh1/Programs/tree/master/0836-rectangle-overlap) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/jilesh1/Programs/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
