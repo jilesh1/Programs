@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jilesh1/Programs/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/jilesh1/Programs/tree/master/0496-next-greater-element-i) |
 | [0697-degree-of-an-array](https://github.com/jilesh1/Programs/tree/master/0697-degree-of-an-array) |
+| [0771-jewels-and-stones](https://github.com/jilesh1/Programs/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/jilesh1/Programs/tree/master/1331-rank-transform-of-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/jilesh1/Programs/tree/master/2094-finding-3-digit-even-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jilesh1/Programs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/jilesh1/Programs/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/jilesh1/Programs/tree/master/0771-jewels-and-stones) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jilesh1/Programs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/jilesh1/Programs/tree/master/1513-number-of-substrings-with-only-1s) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jilesh1/Programs/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
