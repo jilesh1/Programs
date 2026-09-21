@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0836-rectangle-overlap](https://github.com/jilesh1/Programs/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jilesh1/Programs/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/jilesh1/Programs/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1518-water-bottles](https://github.com/jilesh1/Programs/tree/master/1518-water-bottles) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jilesh1/Programs/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jilesh1/Programs/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/jilesh1/Programs/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -178,5 +179,6 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Simulation
 |  |
 | ------- |
+| [1518-water-bottles](https://github.com/jilesh1/Programs/tree/master/1518-water-bottles) |
 | [3498-reverse-degree-of-a-string](https://github.com/jilesh1/Programs/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
