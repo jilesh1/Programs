@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jilesh1/Programs/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/jilesh1/Programs/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/jilesh1/Programs/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/jilesh1/Programs/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/jilesh1/Programs/tree/master/0041-first-missing-positive) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jilesh1/Programs/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jilesh1/Programs/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/jilesh1/Programs/tree/master/0031-next-permutation) |
 | [0633-sum-of-square-numbers](https://github.com/jilesh1/Programs/tree/master/0633-sum-of-square-numbers) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jilesh1/Programs/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jilesh1/Programs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jilesh1/Programs/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Heap (Priority Queue)
