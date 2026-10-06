@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0387-first-unique-character-in-a-string](https://github.com/jilesh1/Programs/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/jilesh1/Programs/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/jilesh1/Programs/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jilesh1/Programs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jilesh1/Programs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/jilesh1/Programs/tree/master/1513-number-of-substrings-with-only-1s) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jilesh1/Programs/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0496-next-greater-element-i](https://github.com/jilesh1/Programs/tree/master/0496-next-greater-element-i) |
 | [0856-score-of-parentheses](https://github.com/jilesh1/Programs/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jilesh1/Programs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jilesh1/Programs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jilesh1/Programs/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jilesh1/Programs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jilesh1/Programs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jilesh1/Programs/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Heap (Priority Queue)
@@ -195,4 +198,5 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/jilesh1/Programs/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jilesh1/Programs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
