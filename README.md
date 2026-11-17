@@ -199,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0856-score-of-parentheses](https://github.com/jilesh1/Programs/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jilesh1/Programs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/jilesh1/Programs/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
